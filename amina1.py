@@ -1,4 +1,4 @@
-#1-masala
+#1-masala.
 student_grades = {"Matematika": 90, "Fizika": 85, "Informatika": 95}
 #1-vazifa
 student_grades["Kimyo"] = 88
